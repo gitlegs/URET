@@ -3,7 +3,7 @@ Useless Random Encryption Thing, a hashing and encryption module for vanilla lua
 Feel free to use/edit I would prefer to be creditted but the module is very simple as of right now anyway.
 
 # Little guide
-Hello this is a little guide so you know how to use the URET module. Credits to luvit for allowing me to create this.
+Hello this is a little guide so you know how to use the URET module. Credits to [luvit](https://luvit.io) for allowing me to create this.
 
 The `test.lua` file gives an example usage of the different methods. The `uret.lua` file is the actual module and the `examples` folder I will fill with use cases.
 
